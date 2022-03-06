@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-seriff;
+    background-color: #202142;
+    line-height: 1.6;
+    color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 768px;
+    margin: 100px auto;
+    padding: 0 20px;
+}
